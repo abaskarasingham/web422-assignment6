@@ -1,10 +1,14 @@
 /*********************************************************************************
-* WEB422 – Assignment 05
+* WEB422 – Assignment 06
 * I declare that this assignment is my own work in accordance with Seneca Academic Policy. No part of this
 * assignment has been copied manually or electronically from any other source (including web sites) or 
 * distributed to other students.
 * 
-* Name: Arhchuthan Baskarasingham | Student ID: 112222195 | Date: July 22, 2022
+* Name: Arhchuthan Baskarasingham | Student ID: 112222195 | Date: August 3, 2022
+*
+* Angular App (Deployed) Link: https://luminous-kitsune-a3a8b1.netlify.app/
+*
+* User API (Heroku) Link: https://warm-escarpment-19403.herokuapp.com/
 *
 ********************************************************************************/ 
 
