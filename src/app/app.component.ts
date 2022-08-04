@@ -22,7 +22,7 @@ import { AuthService } from './auth.service';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent implements OnInit{
-  title = 'web422-a4';
+  title = 'web422-a6';
   searchString: string = "";
   public token: any;
 
